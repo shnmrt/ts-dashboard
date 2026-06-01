@@ -170,4 +170,4 @@ If your data location is different, update DEFAULT_ROOT in each script:
 
 ## License
 
-CC BY 4.0
+[MIT](LICENSE)
