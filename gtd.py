@@ -45,7 +45,7 @@ FILE_REGEX = re.compile(r"^GTD_(\d{8})_(\d{8})(?:\.xlsx|\.xlsm)?$", re.IGNORECAS
 MAX_PLOT_POINTS = 15000
 
 MEASUREMENT_COLUMNS = [
-    "Total flow rate (m3/s)",
+    "Total flow rate (m3/h)",
     "ESP Frequency (Hz)",
     "Temperature Difference (C)",
     "Delivered Power (MW)",
